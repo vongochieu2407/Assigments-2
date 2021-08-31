@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="vyluo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-08-30 09:36:25 CH"/>
+        <attribute name="created" value="dnlsdW87QklOOzIwMjEtMDgtMzA7MDg6NDY6NDMgQ0g7MjA1OQ=="/>
+        <attribute name="edited" value="dnlsdW87QklOOzIwMjEtMDgtMzA7MDk6MzY6MjUgQ0g7MTsyMTY3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="This program displays&quot;Hello World!&quot;"/>
+            <output expression="&quot;Hello world!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
