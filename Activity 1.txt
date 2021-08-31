@@ -1,0 +1,4 @@
+Function Main
+    ... This program displays"Hello Hieu!"
+    Output "Hello Hieu!"
+End
